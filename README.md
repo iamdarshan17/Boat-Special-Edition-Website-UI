@@ -1,1 +1,3 @@
-# Boat-Special-Edition-Website-UI![Screenshot (30)](https://user-images.githubusercontent.com/62028116/207098786-fd4c6022-ef2f-48cd-b90f-6707b35da5c4.png)
+# Boat-Special-Edition-Website
+
+![Screenshot (30)](https://user-images.githubusercontent.com/62028116/207098931-05c13228-5ffc-4f07-810f-8898c77ab405.png)
